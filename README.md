@@ -1,4 +1,5 @@
 Implementation of Self Organazied Map and Learning Vector Quantization
+
 Programming Language: Python
 Required Libraries: Numpy , Scipy
 
